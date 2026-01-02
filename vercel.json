@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/generate-project.js": {
+      "maxDuration": 30
+    }
+  }
+}
